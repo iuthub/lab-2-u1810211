@@ -1,0 +1,29 @@
+.Image{
+    margin-left: 35px;
+}
+
+.text{
+    font-family: 'Sriracha', cursive;
+    display: inline-block;
+}
+
+div.desc{
+    text-align: right;
+    display: inline-block;
+
+}
+body{
+    background-color: darkcyan;
+}
+h1
+{
+    color: lawngreen;
+}
+b{
+    color: darkred;
+}
+a
+{
+    text-decoration: none;
+    color:white;
+}
