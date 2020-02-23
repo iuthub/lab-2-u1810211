@@ -1,0 +1,31 @@
+.text{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: dimgray;
+}
+
+
+p{
+    margin-left: 150px;
+}
+
+p1{
+    font-size: 28pt;
+    display: contents;
+}
+
+p2, p3{
+    font-size: 25pt;
+}
+
+p4{
+    font-size: 19px;
+}
+
+p5{
+    font-size: 28pt;
+    display: contents;
+}
